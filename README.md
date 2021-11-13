@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Yoshishido
+- 👀 I’m interested in blockchain
+- 🌱 I’m currently learning nothing yet
+- 💞️ I’m looking to collaborate on GameFi
+- 📫 How to reach me yoshishido@hotmail.com
